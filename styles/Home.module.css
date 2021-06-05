@@ -1,0 +1,5 @@
+.foo {
+  font-size: 4rem;
+  padding: 4rem;
+  animation: bounce 1s infinite;
+}
